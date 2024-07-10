@@ -1,4 +1,4 @@
-package N3;
+package ATM;
 
 import java.util.Scanner;
 
